@@ -48,9 +48,9 @@ Thanks to the open-source community for providing the tools and libraries that m
 
 ## References
 
-*D-Fire Dataset](https://github.com/gaiasd/DFireDataset), built by:
+- [D-Fire Dataset](https://github.com/gaiasd/DFireDataset), built by:
 Pedro Vinícius Almeida Borges de Venâncio, Adriano Chaves Lisboa, Adriano Vilela Barbosa: An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. In: Neural Computing and Applications, 2022.
 
-*The WildfireApp detector is built around a custom-trained [YOLOv8-L model] (https://github.com/ultralytics/ultralytics)
+- The WildfireApp detector is built around a custom-trained [YOLOv8-L model](https://github.com/ultralytics/ultralytics)
 
 
