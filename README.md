@@ -1,12 +1,21 @@
 # Wildfire Detection Application
 
-[Presentation Google Slides](https://docs.google.com/presentation/d/1BEzhSec0nsHh5EMhR940Tj4NMKqW3aa80Eau7Il9W2o/edit#slide=id.g22d3c9f8f43_0_0)
-[API with our trained YOLOv8 model](https://wildfire-project-backend.herokuapp.com)\
-[Streamlit app with our integrated fire&smoke detector for emergency services](https://wildfire-project-streamlit.herokuapp.com/)
+
+[API serving our trained YOLOv8 detection model](https://wildfire-project-backend.herokuapp.com)\
+[Streamlit web app with our integrated fire&smoke detector for emergency services](https://wildfire-project-streamlit.herokuapp.com/)
+
+
 
 ## Description
 
 WildfireApp is an application designed to help users detect and report wildfires quickly and reliably. It uses state-of-the-art computer vision techniques to detect fire and smoke in images, providing crucial information to emergency services.
+
+
+
+
+https://github.com/Anasmgs/WildfireApp/assets/104752748/c2247424-419c-45c0-a7fa-38ee2524a9e2
+
+
 
 ## Features
 
@@ -17,15 +26,11 @@ WildfireApp is an application designed to help users detect and report wildfires
 - **Weather Information**: Users can access potentially crucial weather data related to the detected fire's location, including wind speed and direction.
 - **User-Friendly Interface**: The user interface is simple and intuitive, making it easy for anyone to use.
 
-## Performances snapshot
+## Fire&Smoke Detection samples
 
-![test2](https://github.com/Anasmgs/WildfireApp/assets/104752748/a0cb53fe-c5d3-4dc8-976e-85a003e7a651)
-![test4](https://github.com/Anasmgs/WildfireApp/assets/104752748/576c76dd-0a23-4309-99b3-89e1ad1a8d39)
 ![test3](https://github.com/Anasmgs/WildfireApp/assets/104752748/09af6ad1-3eaf-4b0b-8b81-ccb2f802baff)
-
-![results](https://github.com/Anasmgs/WildfireApp/assets/104752748/0c0c4340-2b6f-4388-ba80-2a0fabc9edd4)
-![confusion_matrix](https://github.com/Anasmgs/WildfireApp/assets/104752748/380ea6a2-4d6d-4d0c-b4ff-d55d10064f11)
-
+![test4](https://github.com/Anasmgs/WildfireApp/assets/104752748/576c76dd-0a23-4309-99b3-89e1ad1a8d39)
+![test5](https://github.com/Anasmgs/WildfireApp/assets/104752748/73a867d2-2b5b-4a80-8a4d-3e0ea692ad5b)
 
 ## Contributing
 
