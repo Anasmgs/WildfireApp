@@ -31,11 +31,8 @@ if __name__ == '__main__':
         st.divider()
         st.markdown('**Wildfire project by :**')
         st.markdown('[_Anas Maghous_](%s)'%'https://www.linkedin.com/in/anas-maghous/')
-        st.markdown('[_Caroline Mathius_](%s)'%'https://www.linkedin.com/in/carolinemathius/')
-        st.markdown('[_Simon Picard_](%s)'%'https://www.linkedin.com/in/simon-p-64371968/')
-        st.markdown('[_Thibaut Longchamps_](%s)'%'https://www.linkedin.com/in/thibaut-longchamps-0922525a/')
         st.divider()
-        st.markdown('[**Link to source code**](%s)'%'https://github.com/carolinemathius/wildfire-fs-project')
+        st.markdown('[**Link to source code**](%s)'%'https://github.com/Anasmgs/WildfireApp.git')
 
     # If the file uploader or camera input returns a file, display the results of the detection model, the GPS coordinates and the weather information in separate containers
     if my_upload is not None:
