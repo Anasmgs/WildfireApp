@@ -44,7 +44,7 @@ Contributions from the community are welcome! If you'd like to contribute to thi
 
 ## Acknowledgments
 
-Thanks to the open-source community for providing the tools and libraries that made this project possible.
+Thanks to the open-source providers for the tools and libraries that made this project possible.
 
 ## References
 
