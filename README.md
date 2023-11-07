@@ -8,7 +8,7 @@
 
 ## Description
 
-WildfireApp is an application designed to help users detect and report wildfires quickly and reliably. It uses state-of-the-art computer vision techniques to detect fire and smoke in images, providing crucial information to emergency services.
+WildfireApp is an application designed to help users detect and report wildfires quickly and reliably. It uses state-of-the-art computer vision technology to detect fire and smoke in images, providing crucial information to emergency services.
 
 
 
